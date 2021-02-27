@@ -8,6 +8,13 @@ Phiên bản Android studio sử dụng để phát triển ứng dụng
 
 ---------------------------------------------------------------------------------------------------
 Các bước để cài đặt apk lên thiết bị Android
+
+-Trong source code của ứng dụng tìm file có tên app_quiz
+...\AndroidStudioProjects\PRM391xQuizApp_haohqFX04786\app\release
+-Tải file có đuôi apk về máy
+-Chọn cài đặt .
 ---------------------------------------------------------------------------------------------------
-Những lưu ý khi chạy ứng dụng nếu có
+Những lưu ý khi chạy ứng dụng
+
+-...
 ---------------------------------------------------------------------------------------------------
